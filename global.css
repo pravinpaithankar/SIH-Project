@@ -19,17 +19,16 @@ body {
   --Enspirepath-semibold-36-size: 36px;
 
   /* Colors */
-  --Enspirepath-white: #fff;
-  --Enspirepath-wild-sand: #f6f6f6;
+  --Enspirepath-white: #F8F1E2;
+  --Enspirepath-wild-sand: #E0DFDC;
   --color-black: #000;
-  --Enspirepath-deep-cerulean: #007fb6;
-  --Enspirepath-tundora: #484848;
+  --Enspirepath-deep-cerulean:#1D59E0;
+  --Enspirepath-tundora: #27252b;
   --Enspirepath-tango: #ea6915;
-  --color-chocolate-100: #d14f00;
-  --Enspirepath-dusty-gray: #999;
+  --Enspirepath-dusty-gray: #695e5e;
   --Enspirepath-onahau: #cdefff;
   --Enspirepath-gray: #888;
-  --Enspirepath-mandy: #ea6370;
+  --Enspirepath-mandy: #df9a23;
   --Enspirepath-mandy-5: rgba(234, 99, 112, 0.05);
   --Enspirepath-botticelli: #cbd6e2;
   --Enspirepath-wisp-pink: #fef7f8;
